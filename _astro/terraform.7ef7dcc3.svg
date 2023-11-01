@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="LOGOS" width="61.5" height="69.88" version="1.1"><defs id="defs4"><style id="style2">.cls-1{fill:#7b42bc;fill-rule:evenodd}</style></defs><g id="g322" transform="translate(-30.42 -32.18)"><path id="polygon24" d="M70.72 55.52v22.06l-19.1-11.03V44.49z" class="cls-1"/><path id="polygon26" d="m72.81 77.58 19.11-11.03V44.49L72.81 55.52z" class="cls-1"/><path id="polygon28" d="m30.42 54.24 19.1 11.03V43.21l-19.1-11.03z" class="cls-1"/><path id="polygon30" d="m70.72 80-19.1-11.03v22.06l19.1 11.03V80.14z" class="cls-1"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="LOGOS"
+   viewBox="0 0 61.5 69.879997"
+   version="1.1"
+   width="61.5"
+   height="69.879997"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#7b42bc;fill-rule:evenodd;}</style>
+  </defs>
+  <g
+     id="g322"
+     transform="translate(-30.42,-32.18)">
+    <polygon
+       class="cls-1"
+       points="70.72,55.52 70.72,77.58 51.62,66.55 51.62,44.49 "
+       id="polygon24" />
+    <polygon
+       class="cls-1"
+       points="72.81,77.58 91.92,66.55 91.92,44.49 72.81,55.52 "
+       id="polygon26" />
+    <polygon
+       class="cls-1"
+       points="30.42,54.24 49.52,65.27 49.52,43.21 30.42,32.18 "
+       id="polygon28" />
+    <polygon
+       class="cls-1"
+       points="70.72,80 51.62,68.97 51.62,91.03 70.72,102.06 70.72,80.14 "
+       id="polygon30" />
+  </g>
+</svg>
