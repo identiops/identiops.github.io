@@ -7,7 +7,7 @@ https://web.archive.org/web/20210116164029/https://developer.mozilla.org/en-US/d
 -->
 <clientConfig version="1.1">
   <emailProvider id="identiops.com">
-    <domain>identinet.de</domain>
+    <domain>identiops.com</domain>
     <displayName>41ppl.com Mail</displayName>
     <displayShortName>41ppl.com</displayShortName>
     <incomingServer type="imap">
