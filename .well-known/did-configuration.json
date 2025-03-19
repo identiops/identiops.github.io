@@ -1,0 +1,29 @@
+{
+  "@context": "https://identity.foundation/.well-known/did-configuration/v1",
+  "linked_dids": [
+    {
+      "@context": [
+        "https://www.w3.org/2018/credentials/v1",
+        "https://identity.foundation/.well-known/did-configuration/v1",
+        "https://w3id.org/security/suites/ed25519-2020/v1"
+      ],
+      "type": [
+        "VerifiableCredential",
+        "DomainLinkageCredential"
+      ],
+      "credentialSubject": {
+        "id": "did:web:identinet.io",
+        "origin": "https://identiops.com"
+      },
+      "issuer": "did:web:identinet.io",
+      "issuanceDate": "2025-03-19T11:37:08Z",
+      "proof": {
+        "type": "Ed25519Signature2020",
+        "proofPurpose": "assertionMethod",
+        "proofValue": "z51ePLhfJ92aNCiNuM5oK6YmfcSM738473jeqAJiN1HhK79fy2nymw6LY264VcDCTHgyyvbRKuPNUTxNtKepxzBP",
+        "verificationMethod": "did:web:identinet.io#FbRv7gbf8GOu8NC1nqyItDmYlKrMS135ZJ4txG5wUY8",
+        "created": "2025-03-19T11:37:08.343130806Z"
+      }
+    }
+  ]
+}
