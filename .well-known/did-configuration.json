@@ -5,7 +5,7 @@
       "@context": [
         "https://www.w3.org/2018/credentials/v1",
         "https://identity.foundation/.well-known/did-configuration/v1",
-        "https://w3id.org/security/suites/ed25519-2020/v1"
+        "https://w3id.org/security/suites/jws-2020/v1"
       ],
       "type": [
         "VerifiableCredential",
@@ -16,13 +16,13 @@
         "origin": "https://identiops.com"
       },
       "issuer": "did:web:identinet.io",
-      "issuanceDate": "2025-03-19T11:37:08Z",
+      "issuanceDate": "2025-05-09T11:11:52Z",
       "proof": {
-        "type": "Ed25519Signature2020",
+        "type": "JsonWebSignature2020",
         "proofPurpose": "assertionMethod",
-        "proofValue": "z51ePLhfJ92aNCiNuM5oK6YmfcSM738473jeqAJiN1HhK79fy2nymw6LY264VcDCTHgyyvbRKuPNUTxNtKepxzBP",
         "verificationMethod": "did:web:identinet.io#FbRv7gbf8GOu8NC1nqyItDmYlKrMS135ZJ4txG5wUY8",
-        "created": "2025-03-19T11:37:08.343130806Z"
+        "created": "2025-05-09T11:11:52.700658481Z",
+        "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6IkZiUnY3Z2JmOEdPdThOQzFucXlJdERtWWxLck1TMTM1Wko0dHhHNXdVWTgiLCJjcml0IjpbImI2NCJdLCJiNjQiOmZhbHNlfQ..-zm3JH0HBZq-Q-p8Nri9MbmE5ow7AWEQFx5pXEXYC__X1z76vL9U1KeGbG4NuJZi9gStppsVnE-vxytDInmPDQ"
       }
     }
   ]
